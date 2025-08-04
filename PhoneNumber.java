@@ -29,5 +29,6 @@ class Main {
             }
             
         System.out.println("Success!");
+        inp.close();
     }
 }
